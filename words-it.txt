@@ -6305,6 +6305,7 @@ credibilità
 credito
 credo
 credulità
+creeper
 crema
 cremagliera
 crematoio
@@ -10935,6 +10936,7 @@ guasto
 guazzabuglio
 guazzetto
 guazzo
+gucci
 guêpière
 guéridon
 guerra
@@ -13199,6 +13201,7 @@ macchietta
 macchiettatura
 macchiettista
 macchina
+macchina da cucito
 macchinario
 macchinazione
 macchinetta
@@ -14006,6 +14009,7 @@ mercato
 mercatura
 merce
 mercede
+mercedes
 merceologia
 merceria
 mercerizzazione
@@ -14198,6 +14202,7 @@ miccia
 micelio
 micella
 micete
+michael jackson
 michelaccio
 michetta
 micio
@@ -14302,6 +14307,7 @@ minareto
 minatore
 minchioneria
 mindshare
+minecraft
 mineralizzazione
 mineralogia
 minerva
@@ -17849,6 +17855,7 @@ prezzo
 priapismo
 prigione
 prigionia
+prigioniero
 prima
 primadonna
 primariato
